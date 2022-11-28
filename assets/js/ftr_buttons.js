@@ -13,9 +13,9 @@ proc.addEventListener('click', function() {
 kontakt.addEventListener('click', function() {
     swal("Kontakt", `
     Discord: P33t#9999
-    Email: p33tcz@gmail.com nebo p33t@p33t.net
+    Email: p33tcz@gmail.com nebo p33tdev@pm.me
     Web: https://p33t.net
-    Můj roleplay projekt: https://zenrp.cz
+    Můj tebex store: https://fivem.p33t.shop
     `);
    return; 
 }
