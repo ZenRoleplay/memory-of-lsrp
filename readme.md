@@ -7,4 +7,3 @@ Jednoho dne jsem si všiml, že doména vypršela, proto jsem se rozhodl doménu
 Web jsem celý předělával tak aby vypadal jako ten originální. 
 
 
-URL: https://lsrp.cz
